@@ -14,36 +14,38 @@ A repo to track the historical evolution of notation in arts and sciences.
 
 
 * Middle Ages
-[Arts] Medieval Music Notation
-Neume
-Dasein Notation
-[Science] Oresme
-[Science] Llull - Disks
-Memory Palace
-Unicorn Tapestry
-Abacists
-Liber Abacci
+
+** Medieval Music Notation
+*** Neume
+*** Dasein Notation
+
+** Oresme
+** Llull - Disks
+** Memory Palace
+** Unicorn Tapestry
+** Abacists
+** Liber Abacci
 
 * Enlightenment
-Stifel
-Bombelli
-Bacon Ciphers
-[Science] First equation: Recorde
-Descartes
-Leibniz
-Newton
+** Stifel
+** Bombelli
+** Bacon Ciphers
+** First equation: Recorde
+** Descartes
+** Leibniz
+** Newton
 
 * Industrial Age
 
-George Boole
-Venn
-Jevons
-Marquand
-Peirce
+** George Boole
+** Venn
+** Jevons
+** Marquand
+** Peirce
 
 * Modern Age (1800 - 1940)
-Cayley
-Frege - Beggrifschrift
+** Cayley
+** Frege - Beggrifschrift
 
 * Space Age (1940 - 1970)
 ** Cybernetics
@@ -58,9 +60,9 @@ Frege - Beggrifschrift
 ** String Diagrams
 
 * Surveys
-A History of Mathematical Notation - Florian
-Art of Memory - Rossi/Yates
-The Notation of Medieval Music
-Numerical Notation: A Comparative History - Stephen Chrisomalis
-Umberto Eco
-Enlightening Symbols - Joseph Mazur
+** A History of Mathematical Notation - Florian
+** Art of Memory - Rossi/Yates
+** The Notation of Medieval Music
+** Numerical Notation: A Comparative History - Stephen Chrisomalis
+** Umberto Eco
+** Enlightening Symbols - Joseph Mazur
