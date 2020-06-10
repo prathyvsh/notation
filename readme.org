@@ -27,6 +27,7 @@ A repo to track the historical evolution of notation in arts and sciences.
 ** Liber Abacci
 
 * Enlightenment
+** Napier
 ** Stifel
 ** Bombelli
 ** Bacon Ciphers
