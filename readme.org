@@ -50,8 +50,9 @@ A repo to track the historical evolution of notation in arts and sciences.
 ** Frege - Beggrifschrift
 ** Truth Tables
 *** Charles Pierce
-https://arxiv.org/ftp/arxiv/papers/1108/1108.2429.pdf
-https://mulpress.mcmaster.ca/russelljournal/article/download/2056/2081/
+**** https://arxiv.org/ftp/arxiv/papers/1108/1108.2429.pdf
+**** https://mulpress.mcmaster.ca/russelljournal/article/download/2056/2081/
+
 *** Post
 *** Russell
 *** Wittgenstein
@@ -94,4 +95,4 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 ** Enlightening Symbols - Joseph Mazur
 ** [[https://doi.org/10.1515/css-2014-0026 ][The Development of Peirce’s Logic and Semeiotic Theory of Notation]]
 ** [[https://monoskop.org/images/e/e6/Gardner_Martin_Logic_Machines_and_Diagrams.pdf][Logic Machines and Diagrams — Martin Gardner]]
-** https://doi.org/10.1515/semi.1982.38.1-2.17
+** [[https://doi.org/10.1515/semi.1982.38.1-2.17][Sign-creation and man-sign engineering]]
