@@ -46,6 +46,16 @@ A repo to track the historical evolution of notation in arts and sciences.
 
 * Modern Age (1800 - 1940)
 ** Cayley
+
+*** Group Multiplication Table
+[[./img/group-multiplication-table.png]]
+
+*** Trees
+[[./img/cayley-tree.png]]
+
+*** Cayley Graph
+[[./img/cayley-graph.png]]
+
 ** Lewis Carrol Notation
 ** Frege - Beggrifschrift
 ** Truth Tables
