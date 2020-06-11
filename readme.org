@@ -51,6 +51,19 @@ A repo to track the historical evolution of notation in arts and sciences.
 * Space Age (1940 - 1970)
 ** Cybernetics
 ** McCullough Pitts Notation
+
+** Randolf Diagrams
+[[./img/randolf-diagrams.png]]
+
+Randolf Diagrams were used to notate Boolean operations in a 2 by 2 grid.
+
+** Karnaugh Maps
+Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Veitch Chart which is a rediscovery of Marquand Diagrams introduced by Allan Marquand.
+
+** Marquand Diagrams
+
+
+
 ** APL
 ** Plankalkul
 ** Direct expression via simulation
