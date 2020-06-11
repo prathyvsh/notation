@@ -48,7 +48,7 @@ A repo to track the historical evolution of notation in arts and sciences.
 ** Cayley
 
 *** Group Multiplication Table
-[[./img/group-multiplication-table.png]]
+[[./img/cayley-group-multiplication-table.png]]
 
 *** Trees
 [[./img/cayley-tree.png]]
