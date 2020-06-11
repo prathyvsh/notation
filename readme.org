@@ -53,9 +53,12 @@ A repo to track the historical evolution of notation in arts and sciences.
 ** McCullough Pitts Notation
 
 ** Randolf Diagrams
+
 [[./img/randolf-diagrams.png]]
 
-Randolf Diagrams were used to notate Boolean operations in a 2 by 2 grid.
+Randolf Diagrams were used to notate Boolean operations in a 2 by 2 grid. This can be extended to more than one truth values.
+
+[[./img/randolf-diagrams-multiple-truth-values.png]]
 
 ** Karnaugh Maps
 Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Veitch Chart which is a rediscovery of Marquand Diagrams introduced by Allan Marquand.
