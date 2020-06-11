@@ -46,6 +46,7 @@ A repo to track the historical evolution of notation in arts and sciences.
 
 * Modern Age (1800 - 1940)
 ** Cayley
+** Lewis Carrol Notation
 ** Frege - Beggrifschrift
 
 * Space Age (1940 - 1970)
