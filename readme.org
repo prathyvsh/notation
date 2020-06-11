@@ -2,7 +2,7 @@
 A repo to track the historical evolution of notation in arts and sciences.
 
 * Antiquity
-** Hieroglyhpics
+** Hieroglyphics
 ** Levantine
 *** Arithmetica
 ** Mesopotamian
