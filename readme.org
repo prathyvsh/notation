@@ -51,7 +51,9 @@ A repo to track the historical evolution of notation in arts and sciences.
 ** Truth Tables
 *** Charles Pierce
 https://arxiv.org/ftp/arxiv/papers/1108/1108.2429.pdf
+https://mulpress.mcmaster.ca/russelljournal/article/download/2056/2081/
 *** Post
+*** Russell
 *** Wittgenstein
 
 
