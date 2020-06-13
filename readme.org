@@ -35,6 +35,7 @@ A repo to track the historical evolution of notation in arts and sciences.
 ** Descartes
 ** Leibniz
 ** Newton
+** Euler Diagrams
 
 * Industrial Age
 
