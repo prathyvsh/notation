@@ -80,6 +80,9 @@ Randolf Diagrams were used to notate Boolean operations in a 2 by 2 grid. This c
 
 [[./img/randolf-multiple-truth-values.png]]
 
+These might have precursors in X-frame notation of Peirce in “A Proposed Logical Notation (1903)”. Detail from this [[https://arxiv.org/ftp/arxiv/papers/1108/1108.2429.pdf][paper]]
+[[./img/x-frame-notation.png]]
+
 ** Karnaugh Maps
 Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Veitch Chart which is a rediscovery of Marquand Diagrams introduced by Allan Marquand.
 
