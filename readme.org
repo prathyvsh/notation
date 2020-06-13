@@ -5,6 +5,7 @@ A repo to track the historical evolution of notation in arts and sciences.
 ** Hieroglyphics
 ** Levantine
 *** Arithmetica
+*** Square of Opposition
 ** Mesopotamian
 ** Asian
 *** Chinese
@@ -43,9 +44,11 @@ A repo to track the historical evolution of notation in arts and sciences.
 ** Venn
 ** Jevons
 ** Marquand
-** Peirce
+** Hamiltonian Notation
+** De Morgan’s Spicular Notation
 
 * Modern Age (1800 - 1940)
+
 ** Cayley
 
 *** Group Multiplication Table
@@ -59,14 +62,17 @@ A repo to track the historical evolution of notation in arts and sciences.
 
 ** Lewis Carrol Notation
 ** Frege - Beggrifschrift
-** Truth Tables
+
 *** Charles Pierce
 **** https://arxiv.org/ftp/arxiv/papers/1108/1108.2429.pdf
 **** https://mulpress.mcmaster.ca/russelljournal/article/download/2056/2081/
 
 *** Post
+**** Truth Tables
 *** Russell
+**** Truth Tables
 *** Wittgenstein
+**** Truth Tables
 
 
 * Space Age (1940 - 1970)
