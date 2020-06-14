@@ -120,3 +120,8 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 ** Notation as a Tool for Thought - Iverson
 ** Heaviside - On Operators in Physical Mathematics
 His take in simplifying Maxwell’s equations could also be helpful in understanding the intellectual framework shift that helped in changing the perspective on functions.
+
+* Tools
+
+** Rune Generator
+A fun tool to generate a rune like language: https://watabou.itch.io/rune-generator
