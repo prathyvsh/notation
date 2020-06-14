@@ -61,6 +61,7 @@ A repo to track the historical evolution of notation in arts and sciences.
 [[./img/cayley-graph.png]]
 
 ** Lewis Carrol Notation
+
 ** Frege - Beggrifschrift
 
 *** Charles Pierce
@@ -73,7 +74,6 @@ A repo to track the historical evolution of notation in arts and sciences.
 **** Truth Tables
 *** Wittgenstein
 **** Truth Tables
-
 
 * Space Age (1940 - 1970)
 ** Cybernetics
@@ -96,8 +96,6 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 
 ** Marquand Diagrams
 
-
-
 ** APL
 ** Plankalkul
 ** Direct expression via simulation
@@ -106,6 +104,8 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 ** Language builders
 ** Feynman Diagrams
 ** String Diagrams
+** John Barwise
+** APL - Iverson
 
 * Resources
 ** A History of Mathematical Notation - Florian
@@ -117,3 +117,4 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 ** [[https://doi.org/10.1515/css-2014-0026 ][The Development of Peirce’s Logic and Semeiotic Theory of Notation]]
 ** [[https://monoskop.org/images/e/e6/Gardner_Martin_Logic_Machines_and_Diagrams.pdf][Logic Machines and Diagrams — Martin Gardner]]
 ** [[https://doi.org/10.1515/semi.1982.38.1-2.17][Sign-creation and man-sign engineering]]
+** Notation as a Tool for Thought - Iverson
