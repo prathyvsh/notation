@@ -68,6 +68,9 @@ A repo to track the historical evolution of notation in arts and sciences.
 **** https://arxiv.org/ftp/arxiv/papers/1108/1108.2429.pdf
 **** https://mulpress.mcmaster.ca/russelljournal/article/download/2056/2081/
 
+*** Jan Łukasiewicz
+He seems to have a logical matrix in his book and also, need to create a catalog of the notations he has employed in his other works such as many valued logics.
+
 *** Post
 **** Truth Tables
 *** Russell
