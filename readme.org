@@ -71,6 +71,9 @@ A repo to track the historical evolution of notation in arts and sciences.
 *** Jan Łukasiewicz
 He seems to have a logical matrix in his book and also, need to create a catalog of the notations he has employed in his other works such as many valued logics.
 
+** Stamm
+Stam seems to be the first person to publish work on Sheffer Stroke and Pierce Arrow: https://twitter.com/rrrichardzach/status/1251532455829319680
+
 *** Post
 **** Truth Tables
 *** Russell
