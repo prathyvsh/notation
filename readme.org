@@ -74,6 +74,11 @@ He seems to have a logical matrix in his book and also, need to create a catalog
 ** Stamm
 Stam seems to be the first person to publish work on Sheffer Stroke and Pierce Arrow: https://twitter.com/rrrichardzach/status/1251532455829319680
 
+** Gentzen
+*** Sequent Calculus
+Research who brought in the sequent calculus deduction method to the forefront of computer science deduction methods.
+
+
 *** Post
 **** Truth Tables
 *** Russell
@@ -126,6 +131,7 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 ** Notation as a Tool for Thought - Iverson
 ** Heaviside - On Operators in Physical Mathematics
 His take in simplifying Maxwell’s equations could also be helpful in understanding the intellectual framework shift that helped in changing the perspective on functions.
+** [[https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf][Computer Science Metanotation - Guy Steele]]
 
 * Tools
 
