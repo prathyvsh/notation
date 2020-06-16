@@ -142,17 +142,29 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 
 ** String Diagrams
 ** John Barwise
+
 ** APL - Iverson
+
 ** [[https://github.com/oxford-quantum-group/discopy][Discopy]]
+
 ** [[https://homotopy.io/][Homotopy.io]]
+
 ** [[https://monoskop.org/images/9/92/Cage_John_Notations.pdf][John Cage Notations]]
+
 ** Esoteric languages
+
 *** Befunge
+
 *** Brainfuck
+
 *** Piet
 
-*** [[https://ora.ox.ac.uk/objects/uuid:cd021f28-bb43-4aa1-8cde-7d81d4e202e9/download_file?file_format=pdf&safe_filename=corrected-thesis-rp.pdf&type_of_work=Thesis][Picturing Resources in Concurrency]]
+*** Diagrammatic Algebra for Concurrency
+
+**** [[https://dl.acm.org/doi/pdf/10.1145/3290338?download=true][Diagrammatic Algebra: From Linear to Concurrent Systems]]
+**** [[https://ora.ox.ac.uk/objects/uuid:cd021f28-bb43-4aa1-8cde-7d81d4e202e9/download_file?file_format=pdf&safe_filename=corrected-thesis-rp.pdf&type_of_work=Thesis][Picturing Resources in Concurrency]]
 [[./img/resources-in-concurrency.png]]
+
 
 *** Geometry of Interaction
 
