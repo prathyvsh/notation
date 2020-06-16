@@ -20,7 +20,7 @@ A repo to track the historical evolution of notational systems in arts and scien
 
 ** Zā’irjah
 
-[[./img/zairajah.png]]
+[[./img/zairjah.png]]
 
 *** [[http://www.alpha60.de/research/scrambling_truth/DavidLink_ScramblingTruth2010_100dpi.pdf][Paper]]
 
@@ -29,13 +29,13 @@ A repo to track the historical evolution of notational systems in arts and scien
 [[./img/neume.jpg]]
 
 *** Daseian Notation
-[[./img/daseian.png]]
+[[./img/daseian.jpg]]
 
 ** Oresme
 
 ** Llull
-[[./llull-disk.png]]
-[[./llull-tree.png]]
+[[./img/ars-combinatoria-llull.jpg]]
+[[./img/llull-tree.jpg]]
 
 ** Memory Palace
 ** Unicorn Tapestry
