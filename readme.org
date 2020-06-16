@@ -117,6 +117,8 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 ** String Diagrams
 ** John Barwise
 ** APL - Iverson
+** [[https://github.com/oxford-quantum-group/discopy][Discopy]]
+** [[https://homotopy.io/][Homotopy.io]]
 
 * Resources
 ** A History of Mathematical Notation - Florian
