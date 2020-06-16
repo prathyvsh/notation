@@ -24,7 +24,11 @@ A repo to track the historical evolution of notation in arts and sciences.
 [[./img/daseian.png]]
 
 ** Oresme
-** Llull - Disks
+
+** Llull
+[[./llull-disk.png]]
+[[./llull-tree.png]]
+
 ** Memory Palace
 ** Unicorn Tapestry
 ** Abacists
