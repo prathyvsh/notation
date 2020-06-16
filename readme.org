@@ -147,6 +147,7 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 **** [[https://koko-m.github.io/GoI-Visualiser/][GoI Visualizer]]
 [[./img/goi-visualizer.png]]
 
+*** [[https://s.ai/nlws/][Unker non-linear writing system]]
 
 * Resources
 ** A History of Mathematical Notation - Florian
