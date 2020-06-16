@@ -153,6 +153,9 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 *** [[https://s.ai/nlws/][Unker non-linear writing system]]
 [[./img/unker.png]]
 
+*** [[http://adelelopez.com/visual-linear-logic][Linear Logic in Existential Graph Notation]]
+[[./img/visual-linear-logic.png]]
+
 * Resources
 ** A History of Mathematical Notation - Florian
 ** Art of Memory - Rossi/Yates
