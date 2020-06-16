@@ -133,6 +133,9 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 His take in simplifying Maxwell’s equations could also be helpful in understanding the intellectual framework shift that helped in changing the perspective on functions.
 ** [[https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf][Computer Science Metanotation - Guy Steele]]
 ** [[https://www.sciencedirect.com/science/article/pii/B9780444529374500058][A History of Truth-Values - Jean-Yves Béziau]]
+
+** [[https://www.sciencedirect.com/science/article/pii/B9780444529374500113][A History of Logic Diagrams (Amirouche Moktefi, Sun-Joo Shin)]]
+
 ** Susanne Langer on Sheffer’s Notational Velocity:
 
 *** [[https://eprints.soton.ac.uk/402453/1/__filestore.soton.ac.uk_users_lb8_mydesktop_ePrints_Susan%2520Langer%2520and%2520the%2520Woeful%2520World%2520of%2520Facts%2520.pdf][Susanne Langer and the Woeful World of Facts - Giulia Felapi (2017)]]
