@@ -1,5 +1,6 @@
 * Notation
 A repo to track the historical evolution of notation in arts and sciences.
+[[./notation.png]]
 
 * Antiquity
 ** Hieroglyphics
@@ -15,6 +16,12 @@ A repo to track the historical evolution of notation in arts and sciences.
 
 
 * Middle Ages
+
+** Zā’irjah
+
+[[./img/zairajah.png]]
+
+*** [[http://www.alpha60.de/research/scrambling_truth/DavidLink_ScramblingTruth2010_100dpi.pdf][Paper]]
 
 ** Medieval Music Notation
 *** [[https://en.wikipedia.org/wiki/Neume][Neume]]
