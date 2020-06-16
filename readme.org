@@ -64,7 +64,14 @@ A repo to track the historical evolution of notation in arts and sciences.
 
 ** Frege
 
-*** Beggrifschrift
+*** Begriffsschrift
+
+[[./img/begriffsschrift.png]]
+
+- Original Paper
+
+**** [[http://www.attoparsec.com/artifacts/gottlob/index.html][Gottlob]]
+A programming language to play around with Begriffsschrift notation: 
 
 *** Charles Pierce
 **** https://arxiv.org/ftp/arxiv/papers/1108/1108.2429.pdf
