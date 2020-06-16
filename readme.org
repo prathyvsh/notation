@@ -122,6 +122,10 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 ** [[https://github.com/oxford-quantum-group/discopy][Discopy]]
 ** [[https://homotopy.io/][Homotopy.io]]
 ** [[https://monoskop.org/images/9/92/Cage_John_Notations.pdf][John Cage Notations]]
+** Esoteric languages
+*** Befunge
+*** Brainfuck
+*** Piet
 
 * Resources
 ** A History of Mathematical Notation - Florian
