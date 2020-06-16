@@ -140,6 +140,14 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 *** [[https://ora.ox.ac.uk/objects/uuid:cd021f28-bb43-4aa1-8cde-7d81d4e202e9/download_file?file_format=pdf&safe_filename=corrected-thesis-rp.pdf&type_of_work=Thesis][Picturing Resources in Concurrency]]
 [[./img/resource-in-concurrency.png]]
 
+*** Geometry of Interaction
+
+- [[http://www.kurims.kyoto-u.ac.jp/~hassei/algi-13/kokyuroku/19_shirahata.pdf][Paper]]
+
+**** [[https://koko-m.github.io/GoI-Visualiser/][GoI Visualizer]]
+[[./img/goi-visualizer.png]]
+
+
 * Resources
 ** A History of Mathematical Notation - Florian
 ** Art of Memory - Rossi/Yates
