@@ -1,5 +1,6 @@
 * Notation
-A repo to track the historical evolution of notation in arts and sciences.
+A repo to track the historical evolution of notational systems in arts and sciences.
+
 [[./img/notation.png]]
 
 * Antiquity
