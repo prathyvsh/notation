@@ -62,7 +62,9 @@ A repo to track the historical evolution of notation in arts and sciences.
 
 ** Lewis Carrol Notation
 
-** Frege - Beggrifschrift
+** Frege
+
+*** Beggrifschrift
 
 *** Charles Pierce
 **** https://arxiv.org/ftp/arxiv/papers/1108/1108.2429.pdf
@@ -119,6 +121,7 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 ** APL - Iverson
 ** [[https://github.com/oxford-quantum-group/discopy][Discopy]]
 ** [[https://homotopy.io/][Homotopy.io]]
+** [[https://monoskop.org/images/9/92/Cage_John_Notations.pdf][John Cage Notations]]
 
 * Resources
 ** A History of Mathematical Notation - Florian
@@ -152,3 +155,5 @@ His take in simplifying Maxwell’s equations could also be helpful in understan
 
 ** Rune Generator
 A fun tool to generate a rune like language: https://watabou.itch.io/rune-generator
+
+** Visual Lambda Calculus
