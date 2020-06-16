@@ -20,7 +20,7 @@ A repo to track the historical evolution of notational systems in arts and scien
 
 ** Zā’irjah
 
-[[./img/zairjah.png]]
+[[./img/zā’irjah.png]]
 
 *** [[http://www.alpha60.de/research/scrambling_truth/DavidLink_ScramblingTruth2010_100dpi.pdf][Paper]]
 
