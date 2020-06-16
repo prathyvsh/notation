@@ -123,6 +123,9 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 * Information Age (1970 - Now)
 ** Language builders
 ** Feynman Diagrams
+[[./img/feynman-diagram.png]]
+*** [[http://web.mit.edu/dikaiser/www/FdsAmSci.pdf][Physics and Feynman’s Diagrams]]
+
 ** String Diagrams
 ** John Barwise
 ** APL - Iverson
