@@ -186,6 +186,10 @@ Adele Lopez (2020)
 Konstantin Osmei (2020)
 [[./img/konstantin-zx.gif]]
 
+*** Hest programming language
+Ivan Reese (2019)
+[[./img/hest.gif]]
+
 * Resources
 ** A History of Mathematical Notation - Florian
 ** Art of Memory - Rossi/Yates
