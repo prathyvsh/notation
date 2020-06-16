@@ -17,8 +17,11 @@ A repo to track the historical evolution of notation in arts and sciences.
 * Middle Ages
 
 ** Medieval Music Notation
-*** Neume
-*** Dasein Notation
+*** [[https://en.wikipedia.org/wiki/Neume][Neume]]
+[[./img/neume.jpg]]
+
+*** Daseian Notation
+[[./img/daseian.png]]
 
 ** Oresme
 ** Llull - Disks
@@ -148,6 +151,7 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 [[./img/goi-visualizer.png]]
 
 *** [[https://s.ai/nlws/][Unker non-linear writing system]]
+[[./img/unker.png]]
 
 * Resources
 ** A History of Mathematical Notation - Florian
