@@ -110,7 +110,16 @@ Research who brought in the sequent calculus deduction method to the forefront o
 *** Wittgenstein
 **** Truth Tables
 
+*** Behmann (1922)
+
+Inverted representation of T for falsehood.
+
+*** Ramsey (1927)
+
+**** [[Facts and Propositions][http://www.columbia.edu/%7Eav72/papers/JANCL_2003.pdf]]
+
 * Space Age (1940 - 1970)
+
 ** Cybernetics
 ** McCullough Pitts Notation
 
