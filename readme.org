@@ -4,6 +4,13 @@ A repo to track the historical evolution of notational systems in arts and scien
 [[./img/notation.png]]
 
 * Antiquity
+
+** Petroglyph
+
+Petroglpyhs by ancient humans are probably the first ways of creating a map of communication with fellow beings.
+[[./img/petroglyph.jpg]]
+[[./img/petroglyph-2.jpg]]
+
 ** Hieroglyphics
 ** Levantine
 *** Arithmetica
