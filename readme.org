@@ -74,6 +74,8 @@ Petroglpyhs by ancient humans are probably the first ways of creating a map of c
 
 ** Cayley
 
+Arthur Cayley was the first person to coin the ideas of finite group and trees. It is also very interesting that he played around with visual notations to convey ideas about these algebraic structures.
+
 *** Group Multiplication Table
 [[./img/cayley-group-multiplication-table.png]]
 
