@@ -58,6 +58,15 @@ Petroglpyhs by ancient humans are probably the first ways of creating a map of c
 ** First equation: Recorde
 ** Descartes
 ** Leibniz
+
+*** Ars Combinatoria
+
+*** Binary notation
+
+Leibniz introduced the Binary notation [[http://www.leibniz-translations.com/binary.htm][by studying I Ching]].
+
+*** dy/dx notation
+
 ** Newton
 ** Euler Diagrams
 
