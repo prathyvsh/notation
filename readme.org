@@ -69,7 +69,22 @@ Llull’s work would influence a key figure in the history of science: Gottfried
 
 Leibniz introduced the Binary notation [[http://www.leibniz-translations.com/binary.htm][by studying I Ching]].
 
-*** dy/dx notation
+*** Differentiation notation
+
+[[./img/dx-in-print.png]]
+
+In print, the notation first appeared before public in [[https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-differential-calculus][Acta Eruditorium in 1684]].
+
+There is also an upside down ± symbol present in the text which is curious.
+
+*** Integration notation
+
+[[./img/integral-in-print.png]]
+
+This notation first appears in print for public in [[https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-integral-calculus][1686]].
+
+Instead of the italic, the serif version can be found to represent the symbol.
+
 
 ** Newton
 ** Euler Diagrams
