@@ -61,6 +61,10 @@ Petroglpyhs by ancient humans are probably the first ways of creating a map of c
 
 *** Ars Combinatoria
 
+[[./img/ars-combinatoria.png]]
+
+Llull’s work would influence a key figure in the history of science: Gottfried Leibniz. In his dissertation on combinatorics, De Arte Combinatoria, influenced by Descartes’ idea and Llull’s rotating wheels, he proposes an alphabet of human thought.
+
 *** Binary notation
 
 Leibniz introduced the Binary notation [[http://www.leibniz-translations.com/binary.htm][by studying I Ching]].
