@@ -8,7 +8,9 @@ A repo to track the historical evolution of notational systems in arts and scien
 ** Petroglyph
 
 Petroglpyhs by ancient humans are probably the first ways of creating a map of communication with fellow beings.
+
 [[./img/petroglyph.jpg]]
+
 [[./img/petroglyph-2.jpg]]
 
 ** Hieroglyphics
@@ -71,7 +73,7 @@ Leibniz introduced the Binary notation [[http://www.leibniz-translations.com/bin
 
 *** Differentiation notation
 
-[[./img/dx-in-print.png]]
+[[./img/differential-in-print.png]]
 
 In print, the notation first appeared before public in [[https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-differential-calculus][Nova methodus pro maximis et minimis, itemque tangentibus, qua nee fractas, nee irrationales quantitates moratur, & singulare pro illis calculi genus]] in Acta Eruditorium (Pages 467-473) in 1684.
 
