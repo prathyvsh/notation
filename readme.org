@@ -57,7 +57,7 @@ Petroglpyhs by ancient humans are probably the first ways of creating a map of c
 ** Bacon Ciphers
 ** First equation: Recorde
 ** Descartes
-** Leibniz
+** Gottfried Leibniz
 
 *** Ars Combinatoria
 
@@ -73,7 +73,7 @@ Leibniz introduced the Binary notation [[http://www.leibniz-translations.com/bin
 
 [[./img/dx-in-print.png]]
 
-In print, the notation first appeared before public in [[https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-differential-calculus][Acta Eruditorium in 1684]].
+In print, the notation first appeared before public in [[https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-differential-calculus][Nova methodus pro maximis et minimis, itemque tangentibus, qua nee fractas, nee irrationales quantitates moratur, & singulare pro illis calculi genus]] in Acta Eruditorium (Pages 467-473) in 1684.
 
 There is also an upside down ± symbol present in the text which is curious.
 
@@ -81,10 +81,9 @@ There is also an upside down ± symbol present in the text which is curious.
 
 [[./img/integral-in-print.png]]
 
-This notation first appears in print for public in [[https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-integral-calculus][1686]].
+This notation first appears in print for public in [[https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-integral-calculus][De Geometria Recondita et analysi indivisibilium atque infinitorium]] in Acta Eruditorium (Pages 292-300) in 1686.
 
-Instead of the italic, the serif version can be found to represent the symbol.
-
+Instead of the italic long s, the serif version can be found to represent the symbol in print.
 
 ** Newton
 ** Euler Diagrams
