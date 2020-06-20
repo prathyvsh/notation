@@ -52,6 +52,12 @@ Petroglpyhs by ancient humans are probably the first ways of creating a map of c
 ** Abacists
 ** Liber Abacci
 
+** Leon Battista Albert
+
+*** [[https://en.wikipedia.org/wiki/Alberti_cipher][Alberti Cipher Disks]]
+[[./img/alberti-disks.png]]
+
+
 * Enlightenment
 ** Napier
 ** Stifel
