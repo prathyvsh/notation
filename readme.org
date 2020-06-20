@@ -236,7 +236,9 @@ Adele Lopez (2020)
 [[./img/visual-linear-logic.png]]
 
 *** [[https://twitter.com/konstantinosmei/status/1265204171856384004][ZX Calculus Animation]]
+
 Konstantin Osmei (2020)
+
 [[./img/konstantin-zx.gif]]
 
 *** Adinkras for Supersymmetry
@@ -244,7 +246,9 @@ Konstantin Osmei (2020)
 [[./img/adinkras.png]]
 
 *** Hest programming language
+
 Ivan Reese (2019)
+
 [[./img/hest.gif]]
 
 * Resources
