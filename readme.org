@@ -75,7 +75,13 @@ Llull’s work would influence a key figure in the history of science: Gottfried
 
 *** Binary notation
 
-Leibniz introduced the Binary notation [[http://www.leibniz-translations.com/binary.htm][by studying I Ching]].
+Leibniz did work with binary arithmetic.
+
+[[./img/leibniz-binary-arithmetic.png]]
+
+He turned to [[http://www.leibniz-translations.com/binary.htm][I Ching for his inspiration]]. He used 0 to denote the broken line representing chaos and 1 to denote the straight line representing order in the ancient text.
+
+[[./img/leibniz-binary-notation.png]]
 
 *** Differentiation notation
 
