@@ -222,9 +222,9 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 
 ** Billiards Ball Computer
 
-[[./img/billiard-ball-logic-1.png]]
+[[./img/billiards-ball-logic-1.png]]
 
-[[./img/billiard-ball-logic-2.png]]
+[[./img/billiards-ball-logic-2.png]]
 
 [[http://archive.is/yWuli][A small exposition here.]]
 
