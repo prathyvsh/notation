@@ -290,8 +290,8 @@ Ivan Reese (2019)
 ***** [[https://arxiv.org/pdf/0908.3347.pdf][Survey of Graphical Languages for Monoidal Categories]]
 
 [[./img/monoidal-categories-atlas.png]]
-[[./img/monoidal-categories-1.png]]
-[[./img/monaidal-categories-2.png]]
+[[./img/survey-of-monoidal-categories-1.png]]
+[[./img/survey-of-monoidal-categories-2.png]]
 
 * Resources
 ** A History of Mathematical Notation - Florian
