@@ -285,7 +285,13 @@ Ivan Reese (2019)
 [[./img/monads-as-pipes-1.png]]
 [[./img/monads-as-pipes-2.png]]
 
-**** 
+**** Peter Selinger
+
+***** [[https://arxiv.org/pdf/0908.3347.pdf][Survey of Graphical Languages for Monoidal Categories]]
+
+[[./img/monoidal-categories-atlas.png]]
+[[./img/monoidal-categories-1.png]]
+[[./img/monaidal-categories-2.png]]
 
 * Resources
 ** A History of Mathematical Notation - Florian
