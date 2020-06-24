@@ -276,6 +276,17 @@ Ivan Reese (2019)
 
 [[./img/hest.gif]]
 
+*** String Diagrams
+
+***** Joe
+
+[[https://joemathjoe.wordpress.com/2020/06/23/a-different-string-presentation-of-monads/][Article]]
+
+[[./img/monads-as-pipes-1.png]]
+[[./img/monads-as-pipes-2.png]]
+
+**** 
+
 * Resources
 ** A History of Mathematical Notation - Florian
 ** Art of Memory - Rossi/Yates
