@@ -194,6 +194,7 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 ** APL
 ** Plankalkul
 ** Direct expression via simulation
+** [[https://www.jstor.org/stable/410452][A quasi arithmetical notation for syntactic description - Yehoshua Bar Hillel (1953)]]
 
 * Information Age (1970 - Now)
 ** Language builders
