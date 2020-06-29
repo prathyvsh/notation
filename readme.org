@@ -121,6 +121,7 @@ Arthur Cayley was the first person to coin the ideas of finite group and trees. 
 [[./img/cayley-group-multiplication-table.png]]
 
 *** Trees
+
 [[./img/cayley-tree.png]]
 
 *** Cayley Graph
@@ -321,6 +322,12 @@ His take in simplifying Maxwell’s equations could also be helpful in understan
 *** Philosophy in a New Key
 
 *** Feeling and Form
+
+** Irving Anellis
+
+*** [[https://link.springer.com/chapter/10.1007/978-3-319-24756-4_3][The Historical Sources of Tree Graphs and the Tree Method in the Work of Peirce and Gentzen]]
+
+A good paper tracing the history of trees in Mathematics
 
 * Tools
 
