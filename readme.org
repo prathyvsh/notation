@@ -192,6 +192,17 @@ Karnaugh maps are used to notate Boolean algebra. This is an improvement upon Ve
 
 ** Marquand Diagrams
 
+** Martin Gardner
+
+*** [[https://monoskop.org/images/e/e6/Gardner_Martin_Logic_Machines_and_Diagrams.pdf][Logic Machines and Diagrams]]
+A book surveying logical machines and diagrams
+
+*** [[https://www.archim.org.uk/eureka/archive/Eureka-48.pdf][The Propositional Calculus with Directed Graphs with Frank Hararay]]
+
+[[./gardner-propositional-graphs1.png]]
+[[./gardner-propositional-graphs2.png]]
+
+
 ** APL
 ** Plankalkul
 ** Direct expression via simulation
