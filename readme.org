@@ -283,6 +283,12 @@ Adele Lopez (2020)
 
 [[./img/adinkras.png]]
 
+*** Dominic Hughes
+
+**** [[http://boole.stanford.edu/~dominic/papers/lws/lws.pdf][Logic without Syntax (2005)]]
+**** [[https://arxiv.org/pdf/1906.11236.pdf][First-order proofs without syntax (2019)]]
+**** [[https://hal.inria.fr/hal-02386878/file/icp.pdf][Intutionistic proofs without syntax (2019)]]
+
 *** Hest programming language
 
 Ivan Reese (2019)
