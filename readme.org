@@ -329,6 +329,13 @@ His take in simplifying Maxwell’s equations could also be helpful in understan
 
 A good paper tracing the history of trees in Mathematics
 
+** Jon Barwise and John Etchemendy
+[[https://dl.acm.org/doi/10.5555/115665.115667][Visual information and valid reasoning]]
+
+** Janice Glasgow, Harinarayanan, Chandrasekharan
+[[https://mitpress.mit.edu/books/diagrammatic-reasoning][Diagrammatic Reasoning: Cognitive and Computational Perspectives]]
+
+
 * Tools
 
 ** Rune Generator
