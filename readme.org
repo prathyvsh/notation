@@ -311,6 +311,7 @@ A visual editor for opetopes.
 
 [[./img/opetopic1.png]]
 [[./img/opetopic2.png]]
+[[./img/opetopic3.png]]
 
 ** [[https://github.com/oxford-quantum-group/discopy][Discopy]]
 
