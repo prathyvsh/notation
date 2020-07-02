@@ -299,6 +299,18 @@ Ivan Reese (2019)
 
 [[./img/hest.gif]]
 
+*** Jamie Vicary
+
+**** [[https://homotopy.io][Homotopy.io]]
+[[./img/homotopyio.jpg]]
+
+A web based proof assistant for globular n-categories. Considered to be the successor to Globular
+
+**** [[http://globular.science/][Globular]]
+
+[[./img/globular.png]]
+
+
 *** String Diagrams
 
 ***** Joe
