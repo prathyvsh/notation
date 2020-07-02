@@ -218,14 +218,9 @@ A book surveying logical machines and diagrams
 [[./img/feynman-diagram.png]]
 *** [[http://web.mit.edu/dikaiser/www/FdsAmSci.pdf][Physics and Feynman’s Diagrams]]
 
-** String Diagrams
 ** John Barwise
 
 ** APL - Iverson
-
-** [[https://github.com/oxford-quantum-group/discopy][Discopy]]
-
-** [[https://homotopy.io/][Homotopy.io]]
 
 ** [[https://monoskop.org/images/9/92/Cage_John_Notations.pdf][John Cage Notations]]
 
@@ -247,82 +242,90 @@ A book surveying logical machines and diagrams
 
 [[./img/billiards-ball-exposition.gif]]
 
-*** Diagrammatic Algebra for Concurrency
+** Diagrammatic Algebra for Concurrency
 
-**** [[https://dl.acm.org/doi/pdf/10.1145/3290338?download=true][Diagrammatic Algebra: From Linear to Concurrent Systems]]
-**** [[https://ora.ox.ac.uk/objects/uuid:cd021f28-bb43-4aa1-8cde-7d81d4e202e9/download_file?file_format=pdf&safe_filename=corrected-thesis-rp.pdf&type_of_work=Thesis][Picturing Resources in Concurrency]]
+*** [[https://dl.acm.org/doi/pdf/10.1145/3290338?download=true][Diagrammatic Algebra: From Linear to Concurrent Systems]]
+*** [[https://ora.ox.ac.uk/objects/uuid:cd021f28-bb43-4aa1-8cde-7d81d4e202e9/download_file?file_format=pdf&safe_filename=corrected-thesis-rp.pdf&type_of_work=Thesis][Picturing Resources in Concurrency]]
 [[./img/resources-in-concurrency.png]]
 
-*** Geometry of Interaction
+** Geometry of Interaction
 
 - [[http://www.kurims.kyoto-u.ac.jp/~hassei/algi-13/kokyuroku/19_shirahata.pdf][Paper]]
 
-**** [[https://koko-m.github.io/GoI-Visualiser/][GoI Visualizer]]
+*** [[https://koko-m.github.io/GoI-Visualiser/][GoI Visualizer]]
 [[./img/goi-visualizer.png]]
 
-*** [[https://s.ai/nlws/][Unker non-linear writing system]]
+** [[https://s.ai/nlws/][Unker non-linear writing system]]
 2020
 [[./img/unker.png]]
 
-*** [[http://adelelopez.com/visual-linear-logic][Linear Logic in Existential Graph Notation]]
+** [[http://adelelopez.com/visual-linear-logic][Linear Logic in Existential Graph Notation]]
 Adele Lopez (2020)
 [[./img/visual-linear-logic.png]]
 
-*** Konstantin Osmei (2020)
+** Konstantin Osmei (2020)
 
-**** [[https://twitter.com/konstantinosmei/status/1265204171856384004][ZX Calculus Animation]]
+*** [[https://twitter.com/konstantinosmei/status/1265204171856384004][ZX Calculus Animation]]
 
 [[./img/konstantin-zx.gif]]
 
-*** Craig Gidney
+** Craig Gidney
 
-**** [[https://algassert.com/quirk][Quantum Circuit Simulator]]
+*** [[https://algassert.com/quirk][Quantum Circuit Simulator]]
 [[./img/quantum-circuit.png]]
 
-**** [[https://twitter.com/CraigGidney/status/1234414447038386176][Correlation Surface]]
+*** [[https://twitter.com/CraigGidney/status/1234414447038386176][Correlation Surface]]
 [[./img/correlation-surface.jpg]]
 [[./img/braid-twist-braid-hadamarg.png]]
 
-*** Adinkras for Supersymmetry
+** Adinkras for Supersymmetry
 
 [[./img/adinkras.png]]
 
-*** Dominic Hughes
+** Dominic Hughes
 
-**** [[http://boole.stanford.edu/~dominic/papers/lws/lws.pdf][Logic without Syntax (2005)]]
-**** [[https://arxiv.org/pdf/1906.11236.pdf][First-order proofs without syntax (2019)]]
-**** [[https://hal.inria.fr/hal-02386878/file/icp.pdf][Intutionistic proofs without syntax (2019)]]
+*** [[http://boole.stanford.edu/~dominic/papers/lws/lws.pdf][Logic without Syntax (2005)]]
+*** [[https://arxiv.org/pdf/1906.11236.pdf][First-order proofs without syntax (2019)]]
+*** [[https://hal.inria.fr/hal-02386878/file/icp.pdf][Intutionistic proofs without syntax (2019)]]
 
-*** Hest programming language
+** Hest programming language
 
 Ivan Reese (2019)
 
 [[./img/hest.gif]]
 
-*** Jamie Vicary
+** Jamie Vicary
 
-**** [[https://homotopy.io][Homotopy.io]]
+*** [[https://homotopy.io][Homotopy.io]]
 [[./img/homotopyio.jpg]]
 
 A web based proof assistant for globular n-categories. Considered to be the successor to Globular
 
-**** [[http://globular.science/][Globular]]
+*** [[http://globular.science/][Globular]]
 
 [[./img/globularscience.png]]
 
+** [[http://opetopic.net/][Opetopic]]
 
-*** String Diagrams
+A visual editor for opetopes.
 
-***** Joe
+[[./img/opetopic1.png]]
+[[./img/opetopic2.png]]
+
+** [[https://github.com/oxford-quantum-group/discopy][Discopy]]
+
+** String Diagrams
+
+*** Joe
 
 [[https://joemathjoe.wordpress.com/2020/06/23/a-different-string-presentation-of-monads/][Article]]
 
 [[./img/monads-as-pipes-1.png]]
 [[./img/monads-as-pipes-2.png]]
 
-**** Peter Selinger
+*** Peter Selinger
 
-***** [[https://arxiv.org/pdf/0908.3347.pdf][Survey of Graphical Languages for Monoidal Categories]]
+**** [[https://arxiv.org/pdf/0908.3347.pdf][Survey of Graphical Languages for Monoidal Categories]]
 
 [[./img/monoidal-categories-atlas.png]]
 [[./img/survey-of-monoidal-categories-1.png]]
