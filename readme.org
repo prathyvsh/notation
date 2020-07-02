@@ -203,8 +203,8 @@ A book surveying logical machines and diagrams
 
 *** [[https://www.archim.org.uk/eureka/archive/Eureka-48.pdf][The Propositional Calculus with Directed Graphs with Frank Hararay]]
 
-[[./gardner-propositional-graphs1.png]]
-[[./gardner-propositional-graphs2.png]]
+[[./img/gardner-propositional-graphs1.png]]
+[[./img/gardner-propositional-graphs2.png]]
 
 
 ** APL
