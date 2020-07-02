@@ -25,7 +25,6 @@ Petroglpyhs by ancient humans are probably the first ways of creating a map of c
 ** Mesoamerican
 *** Mayan
 
-
 * Middle Ages
 
 ** Zā’irjah
@@ -343,6 +342,7 @@ A visual editor for opetopes.
 ** [[https://monoskop.org/images/e/e6/Gardner_Martin_Logic_Machines_and_Diagrams.pdf][Logic Machines and Diagrams — Martin Gardner]]
 ** [[https://doi.org/10.1515/semi.1982.38.1-2.17][Sign-creation and man-sign engineering]]
 ** Notation as a Tool for Thought - Iverson
+** [[https://pdfs.semanticscholar.org/3d20/8876c6a3c7b405c093fd0a4a01b97b3013d4.pdf][History of Binary and Other Nondecimal Numeration]]
 ** Heaviside - On Operators in Physical Mathematics
 His take in simplifying Maxwell’s equations could also be helpful in understanding the intellectual framework shift that helped in changing the perspective on functions.
 ** [[https://groups.csail.mit.edu/mac/users/gjs/6.945/readings/Steele-MIT-April-2017.pdf][Computer Science Metanotation - Guy Steele]]
