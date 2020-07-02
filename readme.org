@@ -93,6 +93,10 @@ There is also an upside down ± symbol present in the text which is curious.
 
 *** Integration notation
 
+Leibniz purportedly made use of the integral sign in his [[https://digitale-sammlungen.gwlb.de/][private notebooks (LH 35, 8, 8)]].
+
+[[./img/first-appearance-of-integral-in-leibniz-manuscript.png]]
+
 [[./img/integral-in-print.png]]
 
 This notation first appears in print for public in [[https://www.maa.org/press/periodicals/convergence/mathematical-treasure-leibnizs-papers-on-calculus-integral-calculus][De Geometria Recondita et analysi indivisibilium atque infinitorium]] in Acta Eruditorum (Pages 292-300) in 1686.
