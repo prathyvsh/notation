@@ -308,7 +308,7 @@ A web based proof assistant for globular n-categories. Considered to be the succ
 
 **** [[http://globular.science/][Globular]]
 
-[[./img/globular.png]]
+[[./img/globularscience.png]]
 
 
 *** String Diagrams
