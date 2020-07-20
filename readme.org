@@ -372,10 +372,17 @@ A good paper tracing the history of trees in Mathematics
 ** Janice Glasgow, Harinarayanan, Chandrasekharan
 [[https://mitpress.mit.edu/books/diagrammatic-reasoning][Diagrammatic Reasoning: Cognitive and Computational Perspectives]]
 
-
 * Tools
 
 ** Rune Generator
 A fun tool to generate a rune like language: https://watabou.itch.io/rune-generator
 
 ** Visual Lambda Calculus
+
+* Books
+
+Books that take a largely diagramattic approach in its pedagogy. For more information check out 
+
+** [[https://amzn.to/2BfQNAr][Diagramattic Immanence]]
+** [[https://amzn.to/32zMNpr][Plant Form]]
+** [[https://amzn.to/3hfzGOs][Dynamics]]
