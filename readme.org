@@ -105,6 +105,12 @@ Instead of the italic long s, the serif version can be found to represent the sy
 ** Newton
 ** Euler Diagrams
 
+** Plouquet Diagrams
+
+*** Works on Plouquet Diagrams
+**** [[http://ceur-ws.org/Vol-1132/paper4.pdf][Diagrammatic Autarchy]]
+
+
 * Industrial Age
 
 ** George Boole
@@ -371,6 +377,11 @@ A good paper tracing the history of trees in Mathematics
 
 ** Janice Glasgow, Harinarayanan, Chandrasekharan
 [[https://mitpress.mit.edu/books/diagrammatic-reasoning][Diagrammatic Reasoning: Cognitive and Computational Perspectives]]
+
+** Jens Lemanski
+*** [[https://www.researchgate.net/profile/Jens_Lemanski/publication/318743956_Means_or_End_On_the_Valuation_of_Logic_Diagrams/links/597ae44ca6fdcc61bb3bd68a/Means-or-End-On-the-Valuation-of-Logic-Diagrams.pdf][Means or Ends: On the Valuation of Logic Diagrams]]
+
+*** [[https://www.researchgate.net/publication/318614644_Periods_in_the_Use_of_Euler-Type_Diagrams][Periods in the Use of Euler-Type Diagrams]]
 
 * Tools
 
