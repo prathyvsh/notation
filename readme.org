@@ -382,6 +382,19 @@ A good paper tracing the history of trees in Mathematics
 *** Amirouche Moktefi, Francesco Bellucci, Ahti-Veikko Pietarinen
 **** [[http://ceur-ws.org/Vol-1132/paper4.pdf][Diagrammatic Autarchy]]
 
+*** [[https://www.maa.org/press/periodicals/convergence/math-origins-the-logical-ideas][Math Origins: The Logical Ideas]]
+
+*** [[http://www.luigigobbi.com/EarliestUsesOfSymbolsOfOperation/][Earliest uses of symbols of operation]]
+
+*** [[http://www.luigigobbi.com/EarliestUsesOfSymbolsOfOperation/Part2of2.htm][Earliest uses of symbols of operation: Part 2]]
+
+*** [[https://web.archive.org/web/20060821061824/http://www.roma.unisa.edu.au/07305/symbols.htm][The History of Mathematical Symbols]]
+
+*** [[http://wp1.fuchu.jp/~d-logic/en/uni.html][Contributors to the Universal Language]]
+
+*** [[https://amzn.to/2CNZlPj][The Search for the Perfect Language]]
+Umberto Eco
+
 * Tools
 
 ** Rune Generator
