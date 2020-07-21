@@ -105,9 +105,9 @@ Instead of the italic long s, the serif version can be found to represent the sy
 ** Newton
 ** Euler Diagrams
 
-** Plouquet Diagrams
+** Ploucquet Diagrams
 
-*** Works on Plouquet Diagrams
+*** Works on Ploucquet Diagrams
 **** [[http://ceur-ws.org/Vol-1132/paper4.pdf][Diagrammatic Autarchy]]
 
 
