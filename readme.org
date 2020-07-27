@@ -332,6 +332,10 @@ A visual editor for opetopes.
 [[./img/monads-as-pipes-1.png]]
 [[./img/monads-as-pipes-2.png]]
 
+*** Jules Hedges
+
+*** [[https://julesh.com/the-art-of-string-diagrams/][The Art of String Diagrams]]
+
 *** Peter Selinger
 
 **** [[https://arxiv.org/pdf/0908.3347.pdf][Survey of Graphical Languages for Monoidal Categories]]
