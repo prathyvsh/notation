@@ -27,6 +27,9 @@ Petroglpyhs by ancient humans are probably the first ways of creating a map of c
 
 * Middle Ages
 
+** Carolingian Miniscule
+8th century script that became the calligraphic standard.
+
 ** Zā’irjah
 
 [[./img/zā’irjah.png]]
