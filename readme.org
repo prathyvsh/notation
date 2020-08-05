@@ -177,6 +177,15 @@ Research who brought in the sequent calculus deduction method to the forefront o
 *** Wittgenstein
 **** Truth Tables
 
+** Stanisław Leśniewski
+
+*** Ideogrammatic notation
+This one needs deeper investigation as it is much close to box-X notation of Charles Peirce, XLA notation of Shea Zellweger, and Randolph diagrams.
+Much interesting about this idea is that he had a certain philosophical grounding and use of brackets to complement this notation for operators.
+
+*** [[https://amzn.to/30vGFgD][The Logical Systems of Leśniewski]]
+*** [[Leśniewski's Systems of Logic and Foundations of Mathematics][https://link.springer.com/book/10.1007%2F978-3-319-00482-2]]
+
 *** Behmann (1922)
 
 Inverted representation of T for falsehood.
