@@ -418,6 +418,8 @@ A good paper tracing the history of trees in Mathematics
 *** [[https://amzn.to/2CNZlPj][The Search for the Perfect Language]]
 Umberto Eco
 
+*** [[https://github.com/hypotext/notation][Catalog of notation by Katherine Ye]]
+
 * Tools
 
 ** Rune Generator
