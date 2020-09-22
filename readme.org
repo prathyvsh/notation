@@ -344,6 +344,14 @@ A visual editor for opetopes.
 [[./img/monads-as-pipes-1.png]]
 [[./img/monads-as-pipes-2.png]]
 
+*** Johannes Drever
+
+**** [[https://drever.github.io/form-bakery/][Form Bakery]]
+[[./img/form-bakery.png]]
+
+Drever’s playground for George Spencer-Brown’s notation from Laws of Form.
+
+
 *** Jules Hedges
 
 *** [[https://julesh.com/the-art-of-string-diagrams/][The Art of String Diagrams]]
