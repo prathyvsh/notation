@@ -351,7 +351,6 @@ A visual editor for opetopes.
 
 Drever’s playground for George Spencer-Brown’s notation from Laws of Form.
 
-
 *** Jules Hedges
 
 *** [[https://julesh.com/the-art-of-string-diagrams/][The Art of String Diagrams]]
@@ -426,8 +425,6 @@ A good paper tracing the history of trees in Mathematics
 *** [[https://amzn.to/2CNZlPj][The Search for the Perfect Language]]
 Umberto Eco
 
-*** [[https://github.com/hypotext/notation][Catalog of notation by Katherine Ye]]
-
 * Tools
 
 ** Rune Generator
@@ -442,3 +439,10 @@ Books that take a largely diagramattic approach in its pedagogy. For more inform
 ** [[https://amzn.to/2BfQNAr][Diagramattic Immanence]]
 ** [[https://amzn.to/32zMNpr][Plant Form]]
 ** [[https://amzn.to/3hfzGOs][Dynamics]]
+
+* Compendiums
+
+* [[https://github.com/fredhohman/awesome-mathematical-notation-design][Fred Hohman’s curation to improve mathematical notation]]
+List of links of techniques to help enhance mathematical notation 
+
+* [[https://github.com/hypotext/notation][Catalog of notations by Katherine Ye]]
