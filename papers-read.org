@@ -42,7 +42,7 @@ Author thinks that Lange’s commentary is the most valuable guide to the develo
 ** Period III (1760 – 1880)
 
 *** Ploucquet
-Fundamenta Philosophiae Speculativae (1759)
+**** Fundamenta Philosophiae Speculativae (1759)
 
 Used squares for logic diagrams
 
@@ -51,10 +51,10 @@ Neues Organon oder Gedanken über die Erforschung und Bezeichnung des Wahren und
 
 *** Johann Jakob Brucker
 
-Gottlob Benjamin Jäsche
+*** Gottlob Benjamin Jäsche
 Produced a compilation of logic lectures of Kant including the logical diagrams used
 
-Johann August Heinrich Ulrich
+*** Johann August Heinrich Ulrich
 
 *** Gotthelf Samuel Steinbart
 Used linear diagrams
