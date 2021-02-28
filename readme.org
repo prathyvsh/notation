@@ -75,10 +75,21 @@ John Wilkins
 ** First equation: Recorde
 ** Descartes
 ** Vives
+
+[[./img/vives.png]]
+
 ** Nicolaus Reimers
+
+[[./img/reimers-1.png]]
+[[./img/reimers-2.png]]
+
 ** Bartholomäus Keckermann
+[[./img/keckermann.png]]
+
 ** Alsted
 ** Weigel
+[[./img/weigel.jpg]]
+
 ** Sturm
 ** Gottfried Leibniz
 
@@ -120,7 +131,11 @@ Instead of the italic long s, the serif version can be found to represent the sy
 
 ** Weise
 ** Samuel Grosser
+[[./img/grosser.jpg]]
+
 ** Lange
+[[./img/lange.jpg]]
+
 ** Lambert
 ** Ulrich
 ** Steinbart
@@ -132,6 +147,13 @@ Used circle diagrams to illustrate rules of conversion
 
 
 ** Ploucquet Diagrams
+[[./img/ploucquet.jpg]]
+
+** Kant
+[[./img/kant.jpg]]
+
+** Mellin
+[[./img/mellin.jpg]]
 
 ** Newton
 
