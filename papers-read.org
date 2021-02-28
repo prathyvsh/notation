@@ -1,0 +1,69 @@
+* Periods in the Use of Euler-Type Diagrams
+Jens Lemanski (June 2017)
+
+A neat paper that identifies and divides the usage of Euler-type diagrams (line as well as circle diagrams) in the 16th – 18th century.
+
+First expansive period from Vives (1531) to Alsted (1614)
+The second period began around 1660 with Weigel and ended in 1712 with Lange
+Third period of expansion began with 1760 with works of Ploucquet, Euler and Lambert
+
+Euler type diagrams became popular in the debate about intuition which took place in the 1790s between Leibnizians and Kantians.
+
+Similar to an economic cycle, one can speak of ‘periods of expansion and recession’ in the history of Euler-type diagrams.
+
+** Period I (1531 – 1614)
+
+*** Juan Luis Vives (De censura veri et falsi)
+*** Nicolaus Reimers (Ursus Dithmarsius)
+Metamorphosis Logicae
+
+*** Bartholomäus Keckermann
+Systema Logicæ: Sompendiosa methodo
+Systema Logicæ: Tribus Libris Adornatvm
+
+*** Alsted
+
+** Period II (1660 – 1712)
+
+*** First School
+**** Erhard Weigel in Jena
+**** Johann Christoph Sturm
+**** Gottfried Wilhelm Leibniz
+
+*** Second School
+**** Christian Weise in Zittau
+**** Samuel Grosser
+**** Johann Christian Lange
+****** Nucleus Logicae Weisianae
+700 page commentary on the Weise’s handbook of logic. These comments contain numerous diagrams.
+
+Author thinks that Lange’s commentary is the most valuable guide to the development of logic diagrams in the time before Euler.
+
+** Period III (1760 – 1880)
+
+*** Ploucquet
+Fundamenta Philosophiae Speculativae (1759)
+
+Used squares for logic diagrams
+
+*** Lambert
+Neues Organon oder Gedanken über die Erforschung und Bezeichnung des Wahren und dessen Unterscheidung vom Irrtum und Schein (1764)
+
+*** Johann Jakob Brucker
+
+Gottlob Benjamin Jäsche
+Produced a compilation of logic lectures of Kant including the logical diagrams used
+
+Johann August Heinrich Ulrich
+
+*** Gotthelf Samuel Steinbart
+Used linear diagrams
+
+*** Johann Gebhardt Ehrenreich Maaß
+Used triangles in his logic based on Lambert’s line diagrams
+
+*** Johann Gottfried Kiesewetter
+Used circle diagrams to illustrate rules of conversion
+
+*** Georg Samuel Albert Mellin
+Linked Kant’s The False Subtlety of the Four Syllogistic Figures with Euler’s and Lambert’s logic.
