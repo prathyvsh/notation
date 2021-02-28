@@ -74,6 +74,12 @@ John Wilkins
 ** Bacon Ciphers
 ** First equation: Recorde
 ** Descartes
+** Vives
+** Nicolaus Reimers
+** Bartholomäus Keckermann
+** Alsted
+** Weigel
+** Sturm
 ** Gottfried Leibniz
 
 *** Ars Combinatoria
@@ -112,10 +118,24 @@ This notation first appears in print for public in [[https://www.maa.org/press/p
 
 Instead of the italic long s, the serif version can be found to represent the symbol in print.
 
-** Newton
-** Euler Diagrams
+** Weise
+** Samuel Grosser
+** Lange
+** Lambert
+** Ulrich
+** Steinbart
+** Johann Gebhardt Ehrenreich Maaß
+Made triangle diagrams based on Lambert’s line diagrams
+
+** Johann Gottfried Kiesewetter
+Used circle diagrams to illustrate rules of conversion
+
 
 ** Ploucquet Diagrams
+
+** Newton
+
+** Euler Diagrams
 
 * Industrial Age
 
