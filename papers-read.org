@@ -15,11 +15,11 @@ Similar to an economic cycle, one can speak of ‘periods of expansion and reces
 
 *** Juan Luis Vives (De censura veri et falsi)
 *** Nicolaus Reimers (Ursus Dithmarsius)
-Metamorphosis Logicae
+**** Metamorphosis Logicae
 
 *** Bartholomäus Keckermann
-Systema Logicæ: Sompendiosa methodo
-Systema Logicæ: Tribus Libris Adornatvm
+**** Systema Logicæ: Sompendiosa methodo
+**** Systema Logicæ: Tribus Libris Adornatvm
 
 *** Alsted
 
