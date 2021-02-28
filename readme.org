@@ -436,9 +436,12 @@ A fun tool to generate a rune like language: https://watabou.itch.io/rune-genera
 
 Books that take a largely diagramattic approach in its pedagogy. For more information check out 
 
-** [[https://amzn.to/2BfQNAr][Diagramattic Immanence]]
+** [[https://amzn.to/2BfQNAr][Diagramattic Immanence (2015)]]
+Rocco Gangle
 ** [[https://amzn.to/32zMNpr][Plant Form]]
 ** [[https://amzn.to/3hfzGOs][Dynamics]]
+** [[https://www.cl.cam.ac.uk/~mj201/book.html][Mathematical Reasoning with Diagrams (2001)]]
+Mateja Jamnik
 
 * Compendiums
 
