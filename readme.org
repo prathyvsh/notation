@@ -430,7 +430,22 @@ A good paper tracing the history of trees in Mathematics
 *** [[https://www.researchgate.net/publication/318614644_Periods_in_the_Use_of_Euler-Type_Diagrams][Periods in the Use of Euler-Type Diagrams]]
 
 *** Amirouche Moktefi, Francesco Bellucci, Ahti-Veikko Pietarinen
-**** [[http://ceur-ws.org/Vol-1132/paper4.pdf][Diagrammatic Autarchy]]
+**** [[http://ceur-ws.org/Vol-1132/paper4.pdf][Diagrammatic Autarchy: Linear Diagrams in the 17th and 18th Centuries]]
+
+*** Amirouche Moktefi, Shin
+A History of Logic Diagrams (2012)
+
+*** What is a logical diagram?
+Legg (2013)
+
+*** An Eleventh-Century Venn Diagram
+A.W.F. Edwards (2006)
+
+*** Euler-Diagramme: Zur Morphologie einer Repräsentationsform in der Logik,
+Peter Bernhard (2001)
+
+*** The Remarkable Diagrams of Johann Maass
+P. Bernhard (2007)
 
 *** [[https://www.maa.org/press/periodicals/convergence/math-origins-the-logical-ideas][Math Origins: The Logical Ideas]]
 
@@ -462,6 +477,10 @@ Rocco Gangle
 ** [[https://amzn.to/3hfzGOs][Dynamics]]
 ** [[https://www.cl.cam.ac.uk/~mj201/book.html][Mathematical Reasoning with Diagrams (2001)]]
 Mateja Jamnik
+
+** The Philosophical Status of Diagrams
+Mark Greaves (2002)
+Has a compilation of Euler style and other logic diagram sunder the heading ‘Early diagrams for Syllogistic Logic’
 
 * Compendiums
 
