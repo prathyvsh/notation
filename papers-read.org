@@ -34,7 +34,7 @@ Similar to an economic cycle, one can speak of ‘periods of expansion and reces
 **** Christian Weise in Zittau
 **** Samuel Grosser
 **** Johann Christian Lange
-****** Nucleus Logicae Weisianae
+***** Nucleus Logicae Weisianae
 700 page commentary on the Weise’s handbook of logic. These comments contain numerous diagrams.
 
 Author thinks that Lange’s commentary is the most valuable guide to the development of logic diagrams in the time before Euler.
