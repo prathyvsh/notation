@@ -67,3 +67,60 @@ Used circle diagrams to illustrate rules of conversion
 
 *** Georg Samuel Albert Mellin
 Linked Kant’s The False Subtlety of the Four Syllogistic Figures with Euler’s and Lambert’s logic.
+
+* Logical Diagrams in the Weigel and Weise Circles
+
+John Venn’s terminology of analytical / logical diagrams seem to have some criteria to classify a diagram as a logical diagram.
+Eikosograms
+
+In Symbolic Logic by John Venn, there’s a historical note on the different analytical diagrams employed by personalities from 16th century to 18th century.
+
+Weise:
+Two Students — Samuel Grosser and Johann Christian Lange
+Weigel:
+Johann Christoph Strumm and Gottfried Wilhelm Leibniz
+
+The knowledge of 18th and 19th century literature concerning analytical diagrams between the 1660s and 1710s is said to be restricted to some facts about the book Nucleus Logicae Weisiane from the Weise circle.
+
+It is said that for 19th and 20th century logicians, the book Nucleus Logicae Weisiane was not available, except for may be Hamilton.
+
+Maaß, Fries, Schopenhauer, Bachmann, Bolzano and many others within that period only claimed that analytical diagrams were first used by Euler, Lambert, and Ploucquet.
+
+It is said that Drobisch managed to establish the idea that Nucleus Logicae Weisiane could be a source of logical diagrams prior to the use of Euler, Lambert, and Ploucquet as Lambert has mentioned this book in his notes.
+
+Lambert as the first loose connection between Weise and Weigel circles.
+
+The Additamenta added by Lange to Weise’s Nucleus Logicae is about 700 pages.
+
+It is also supplemented by Inventvm Novvm Quadrati Logic Vniversalis. Both the Additament and Inventvm are full of illustrations.
+
+Lange’s text has tree, triangle, trident, square, cube, bow, wheel, and circle diagrams with various functions.
+
+Lange illustrates regular syllogisms with their terms and judgments and also ethymemes and sorties.
+
+Lange details about his cvbi logici
+
+* Samuel Grosser
+** Pharus Intellectus, sive Logica electiva
+** Gründliche  Anweisung zur Logica
+
+Both these books have triangle diagrams which were used in a similar fashion by Lange in his ‘Additamenta’
+
+Correspondence was located by Grosser as the central concept by which demonstrations can be made. He used a Gleichnüß (Translated roughly as parable or analogy) to describe the relationship between geometrical figures and conceptual content and the Loci Topici (Locus of the Topic?)
+
+He uses the example of meeting of extremes of a line by drawing circles from the extremes and showing that they meet at a certain point
+
+He also shows that two sides of the the triangle formed inside two circles can be thought of as extension of the subject (BC) and predicate of a judgement (AB).
+Q. What is AB?
+
+The dichotomic and polytonic tradition as depending on Ramus and Comenius.
+
+Weies and Leibniz had the same teacher Jacob Thomasius who taught Aristotelian philosophy and especially logic.
+
+It is interesting to see Weigel’s observations in Philosophia Mathematica (166) about how Aristotle used geometrical terms such as boundaries and schemes to describe his logic. Also, it is pretty interesting to note how how describes the use of coincidence and dis-coincidence of boundaries for logical deduction. Particularly interesting is how he says the coincidence or dis-coincidence of the extreme terms (possibly the premise and the conclusion) themselves indicate either true or false conclusion.
+
+The article draws to a close by saying that in the period between 1660 — 1710, the development and circulation of logic diagram begins with Weigel and culminate in the work of Lange.
+
+Also, it is said that logic diagrams in general, but also spatial logic diagrams, go back to ancient sciences.
+
+Weigel had confidence that ancients introduced logic diagrams in accordance with Euclid’s second fifth book of the Elements.
