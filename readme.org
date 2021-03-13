@@ -70,6 +70,10 @@ John Wilkins
 * Enlightenment
 ** Napier
 ** Stifel
+
+** Circular slide rule based on Bürgi’s logarithm tables
+https://klaustruemper.com/2018/02/17/circular-slide-rule-based-on-burgis-logarithm-tables-of-1620/
+
 ** Bombelli
 ** Bacon Ciphers
 ** First equation: Recorde
