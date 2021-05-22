@@ -322,11 +322,15 @@ A book surveying logical machines and diagrams
 [[./img/goi-visualizer.png]]
 
 ** [[https://s.ai/nlws/][Unker non-linear writing system]]
+
 2020
+
 [[./img/unker.png]]
 
 ** [[http://adelelopez.com/visual-linear-logic][Linear Logic in Existential Graph Notation]]
+
 Adele Lopez (2020)
+
 [[./img/visual-linear-logic.png]]
 
 ** Konstantin Osmei (2020)
@@ -342,7 +346,7 @@ Adele Lopez (2020)
 
 *** [[https://twitter.com/CraigGidney/status/1234414447038386176][Correlation Surface]]
 [[./img/correlation-surface.jpg]]
-[[./img/braid-twist-braid-hadamarg.png]]
+[[./img/braid-twist-braid-hadamard.png]]
 
 ** Adinkras for Supersymmetry
 
