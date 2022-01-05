@@ -512,6 +512,10 @@ Mateja Jamnik
 Mark Greaves (2002)
 Has a compilation of Euler style and other logic diagram sunder the heading ‘Early diagrams for Syllogistic Logic’
 
+* Discussions
+
+** [[https://mathoverflow.net/questions/168888/who-invented-diagrammatic-algebra][Who invented diagrammatic algebra?]]
+
 * Compendiums
 
 * [[https://github.com/fredhohman/awesome-mathematical-notation-design][Fred Hohman’s curation to improve mathematical notation]]
