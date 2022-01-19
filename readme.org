@@ -503,6 +503,12 @@ Books that take a largely diagramattic approach in its pedagogy. For more inform
 
 ** [[https://amzn.to/2BfQNAr][Diagramattic Immanence (2015)]]
 Rocco Gangle
+
+** [[https://link.springer.com/book/10.1007/978-1-4020-5652-9][Diagrammatology]]
+Frederik Stjernfelt
+
+[[./diagrammatology.jpg]]
+
 ** [[https://amzn.to/32zMNpr][Plant Form]]
 ** [[https://amzn.to/3hfzGOs][Dynamics]]
 ** [[https://www.cl.cam.ac.uk/~mj201/book.html][Mathematical Reasoning with Diagrams (2001)]]
