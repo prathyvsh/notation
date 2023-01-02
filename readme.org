@@ -518,6 +518,12 @@ Mateja Jamnik
 Mark Greaves (2002)
 Has a compilation of Euler style and other logic diagram sunder the heading ‘Early diagrams for Syllogistic Logic’
 
+* Talks
+
+** [[https://www.youtube.com/watch?v=RhFRzgQNg0k][Spatial Thinking is the Foundation of Thought]]
+A tour de force of the different kinds of notational devices and spatial thinking tools that humans have employed over the course of history to make sense of the world around them.
+Note to self: I need to take the spectrum of ideas presented there and incorporate them as categories in this document.
+
 * Discussions
 
 ** [[https://mathoverflow.net/questions/168888/who-invented-diagrammatic-algebra][Who invented diagrammatic algebra?]]
